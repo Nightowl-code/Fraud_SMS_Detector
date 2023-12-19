@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 # Your OpenAI API key
-api_key = "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"
+api_key = "XXX"
 openai.api_key = api_key
 
 def generate_response(prompt):
