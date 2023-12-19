@@ -2,7 +2,7 @@
 Author: Koushal S Kedari 
 
 # About
-This is a program to detect fraud and Spam SMS you recieve on your phone. It is powered by gpt-3.5-turbo-1106 engine with fine tuning to detect and classify the fraud and safe SMS with good accuracy.
+This is a python program to detect fraud and Spam SMS you recieve on your phone. It is powered by gpt-3.5-turbo-1106 engine with fine tuning to detect and classify the fraud and safe SMS with good accuracy. It is designed with user friendly GUI and hosted with FLASK to have local access on yout computer.
 
 ![image](https://github.com/Nightowl-code/Fraud_SMS_Detector/assets/121932742/b4d3f56f-b72f-4822-8b2a-53c17d0f169e)
 
@@ -20,5 +20,6 @@ Open detector.py and replace the "XXX" with your API key from OpenAi website wit
 
 # Advantages
 Accuracy of more than 90%
+
 User-friendly web interface to interact
 
