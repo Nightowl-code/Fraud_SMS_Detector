@@ -1,5 +1,5 @@
 # Fraud_SMS_Detector
-Author: Koushal S Kedari 
+Author: Koushal S Kedari, Asadkhan Ustad, Shraddha Naik and Ian Dsouza
 
 # About
 This is a python program to detect fraud and Spam SMS you recieve on your phone. It is powered by gpt-3.5-turbo-1106 engine with fine tuning to detect and classify the fraud and safe SMS with good accuracy. It is designed with user friendly GUI and hosted with FLASK to have local access on yout computer.
